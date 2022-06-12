@@ -4,5 +4,4 @@ Rencana Belajar
   * Template
 - Flutter
 - Phyton
-  * Framework Phyton
-  
+  * Framework phyton
