@@ -1,7 +1,7 @@
 Rencana Belajar
 - Laravel
   * Laravel 8
+  * Template
 - Flutter
-  * UI Flutter
 - Phyton
   * Framework phyton
